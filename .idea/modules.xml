@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidForBlog.iml" filepath="$PROJECT_DIR$/AndroidForBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapersimple/adapersimple.iml" filepath="$PROJECT_DIR$/adapersimple/adapersimple.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
