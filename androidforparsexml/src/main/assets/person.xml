@@ -1,0 +1,17 @@
+<persons>
+    <person id="1">
+        <name>张三</name>
+        <age>22</age>
+        <major>通信工程</major>
+    </person>
+    <person id="2">
+        <name>李四</name>
+        <age>32</age>
+        <major>软件工程</major>
+    </person>
+    <person id="3">
+        <name>王五</name>
+        <age>29</age>
+        <major>土木工程</major>
+    </person>
+</persons>
