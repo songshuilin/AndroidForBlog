@@ -5,11 +5,11 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-public class MyReceiverA extends BroadcastReceiver {
+public class MyReceiverB extends BroadcastReceiver {
+
 
     @Override
     public void onReceive(Context context, Intent intent) {
-        Log.i("TAG", " MyReceiverA  广播 ");
-        abortBroadcast();
+        Log.i("TAG", " MyReceiverB 广播 ");
     }
 }
